@@ -1,0 +1,3 @@
+[submodule "image-masking-react"]
+	path = image-masking-react
+	url = https://github.com/atharva-borekar/image-blur.git
